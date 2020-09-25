@@ -1,4 +1,4 @@
-package eosaddr
+package eos
 
 import (
 	"bytes"
